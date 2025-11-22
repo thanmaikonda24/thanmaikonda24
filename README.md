@@ -10,6 +10,6 @@ On GitHub, you'll find experiments, small projects, and occasional chaos disguis
 
 ---
 
-## **Let's connect!**
+#### **Let's connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanmaikonda)
