@@ -2,10 +2,9 @@
 
 I'm **Thanu**, a 2nd-year student at **Golden Gate University** learning to code so I can boss my future robot around 🤖.  
 
-When I write code, my programs either behave…  
-or demand a day off.  
+When I write code, my programs either behave… or demand a day off.  
 
-My secret mission? To master computer languages so thoroughly that I can make code do *exactly* what I want, mostly because I’m far too lazy to do things the hard way. If the machines can do the work for me someday… well, who am I to stop them? 😎  
+My secret mission? To master computer languages so thoroughly that I can make code do *exactly* what I want, mostly because I’m far too lazy to do things the hard way. If the machines can do the work for me someday… well, who am I to stop them?  
 
 On GitHub, you'll find experiments, small projects, and occasional chaos disguised as commits.
 
