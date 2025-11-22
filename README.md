@@ -13,6 +13,8 @@ On GitHub, you'll find experiments, small projects, and occasional chaos disguis
 #### **Let's connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanmaikonda)
-[![HackerRank](https://assets.hackerrank.com/hackerrank/assets/styleguide/logo-default.svg)](https://www.hackerrank.com/thanu00000000)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/thanu00000000)
+
+
 
 
